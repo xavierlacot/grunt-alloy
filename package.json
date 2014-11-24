@@ -44,6 +44,6 @@
     "appcelerator"
   ],
   "dependencies": {
-    "alloy": ">=1.3.0 <2.0"
+    "alloy": "xavierlacot/alloy#feature/speedup-compile"
   }
 }
