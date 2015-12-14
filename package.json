@@ -44,6 +44,6 @@
     "appcelerator"
   ],
   "dependencies": {
-    "alloy": "xavierlacot/alloy#feature/speedup-compile"
+    "alloy": "xavierlacot/alloy#fix/AC-540"
   }
 }
